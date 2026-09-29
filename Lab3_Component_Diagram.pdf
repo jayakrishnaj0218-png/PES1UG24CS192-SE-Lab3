@@ -1,83 +1,120 @@
-%PDF-1.3
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.4
 1 0 obj
-<<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
->>
+<< /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
->>
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
 endobj
 3 0 obj
-<<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
->>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1600 1000] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
 endobj
 4 0 obj
-<<
-/BaseFont /ZapfDingbats /Name /F3 /Subtype /Type1 /Type /Font
->>
+<< /Length 5012 >>
+stream
+BT /F2 30 Tf 60 945 Td (Lab 3 - Smart Lab Equipment & Slot Reservation Portal) Tj ET
+BT /F1 17 Tf 60 915 Td (Selected architecture: Layered Architecture | Components, provided/required interfaces and dependencies) Tj ET
+0.925 0.953 0.996 rg 0.53 0.69 0.9 RG 2 w 48 210 310 690 re B
+0.933 0.969 0.945 rg 0.6 0.79 0.64 RG 2 w 388 210 812 690 re B
+1 0.969 0.91 rg 0.91 0.73 0.41 RG 2 w 1230 210 292 690 re B
+BT /F2 20 Tf 74 860 Td (PRESENTATION LAYER) Tj ET
+BT /F2 20 Tf 414 860 Td (BUSINESS LAYER) Tj ET
+BT /F2 20 Tf 1256 860 Td (DATA LAYER) Tj ET
+0.925 0.957 0.996 rg 0.3 0.55 0.84 RG 2 w 90 500 225 154 re B
+0.925 0.957 0.996 rg 0.3 0.55 0.84 RG 1 w 90 616 225 38 re B
+BT /F2 16 Tf 104 628 Td (<<component>>) Tj ET
+BT /F2 16 Tf 104 594 Td (Student / Technician UI) Tj ET
+BT /F1 14 Tf 104 568 Td (View availability) Tj ET
+BT /F1 14 Tf 104 547 Td (Reserve / cancel slot) Tj ET
+BT /F1 14 Tf 104 526 Td (Manage calibration / returns) Tj ET
+0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 2 w 440 637 273 146 re B
+0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 1 w 440 745 273 38 re B
+BT /F2 16 Tf 454 757 Td (<<component>>) Tj ET
+BT /F2 16 Tf 454 723 Td (Authentication & Authorization) Tj ET
+BT /F1 14 Tf 454 697 Td (Student / technician login) Tj ET
+BT /F1 14 Tf 454 676 Td (Role checks before restricted actions) Tj ET
+0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 2 w 763 617 314 166 re B
+0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 1 w 763 745 314 38 re B
+BT /F2 16 Tf 777 757 Td (<<component>>) Tj ET
+BT /F2 16 Tf 777 723 Td (Reservation Manager) Tj ET
+BT /F1 14 Tf 777 697 Td (Availability + 2-hour / 7-day rules) Tj ET
+BT /F1 14 Tf 777 676 Td (Double-booking prevention / slot lock) Tj ET
+BT /F1 14 Tf 777 655 Td (Create, cancel, confirm reservations) Tj ET
+0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 2 w 440 375 273 159 re B
+0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 1 w 440 496 273 38 re B
+BT /F2 16 Tf 454 508 Td (<<component>>) Tj ET
+BT /F2 16 Tf 454 474 Td (Equipment & Calibration Manager) Tj ET
+BT /F1 14 Tf 454 448 Td (Equipment registration / availability) Tj ET
+BT /F1 14 Tf 454 427 Td (Calibration status updates) Tj ET
+BT /F1 14 Tf 454 406 Td (Only calibrated equipment reservable) Tj ET
+0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 2 w 763 375 314 159 re B
+0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 1 w 763 496 314 38 re B
+BT /F2 16 Tf 777 508 Td (<<component>>) Tj ET
+BT /F2 16 Tf 777 474 Td (Return & Late-Return Manager) Tj ET
+BT /F1 14 Tf 777 448 Td (Record equipment returns) Tj ET
+BT /F1 14 Tf 777 427 Td (Mark overdue reservations) Tj ET
+BT /F1 14 Tf 777 406 Td (Apply late-return workflow) Tj ET
+1 0.93 0.76 rg 0.76 0.52 0.1 RG 2 w 1255 463 242 171 re B
+1 0.93 0.76 rg 0.76 0.52 0.1 RG 1 w 1255 596 242 38 re B
+BT /F2 16 Tf 1269 608 Td (<<component>>) Tj ET
+BT /F2 16 Tf 1269 574 Td (Lab Reservation Database) Tj ET
+BT /F1 14 Tf 1269 548 Td (Students / roles) Tj ET
+BT /F1 14 Tf 1269 527 Td (Equipment + calibration) Tj ET
+BT /F1 14 Tf 1269 506 Td (Reservations / returns) Tj ET
+BT /F1 14 Tf 1269 485 Td (Transactional locking) Tj ET
+0.36 0.41 0.47 RG 2 w 315 730 m 440 710 l S
+1 1 1 rg 0.31 0.37 0.43 RG 2 w 432 702 16 16 re S
+0.36 0.41 0.47 RG 2 w 315 690 m 763 700 l S
+1 1 1 rg 0.31 0.37 0.43 RG 2 w 755 692 16 16 re S
+0.36 0.41 0.47 RG 2 w 315 650 m 440 455 l S
+1 1 1 rg 0.31 0.37 0.43 RG 2 w 432 447 16 16 re S
+0.36 0.41 0.47 RG 2 w 315 610 m 763 455 l S
+1 1 1 rg 0.31 0.37 0.43 RG 2 w 755 447 16 16 re S
+0.36 0.41 0.47 RG 2 w 713 710 m 763 700 l S
+0.36 0.41 0.47 RG 2 w 1077 700 m 1255 555 l S
+1 1 1 rg 0.31 0.37 0.43 RG 2 w 1247 547 16 16 re S
+0.36 0.41 0.47 RG 2 w 1077 455 m 1255 520 l S
+1 1 1 rg 0.31 0.37 0.43 RG 2 w 1247 512 16 16 re S
+BT /F2 12 Tf 365 770 Td (IAuthAPI) Tj ET
+BT /F1 12 Tf 365 750 Td (authentication / authorization) Tj ET
+BT /F2 12 Tf 465 575 Td (IReservationAPI) Tj ET
+BT /F1 12 Tf 465 557 Td (availability / reserve / cancel) Tj ET
+BT /F2 12 Tf 695 585 Td (IEquipmentAPI) Tj ET
+BT /F1 12 Tf 695 567 Td (validate calibration + slot availability) Tj ET
+BT /F2 12 Tf 365 445 Td (IEquipmentAPI) Tj ET
+BT /F1 12 Tf 365 427 Td (availability / calibration) Tj ET
+BT /F2 12 Tf 555 350 Td (IReturnAPI) Tj ET
+BT /F1 12 Tf 555 332 Td (return / overdue handling) Tj ET
+BT /F2 12 Tf 1114 590 Td (IRepository) Tj ET
+BT /F1 12 Tf 1114 572 Td (transactional database access) Tj ET
+BT /F2 12 Tf 1114 500 Td (IRepository) Tj ET
+BT /F1 12 Tf 1114 482 Td (returns + audit data) Tj ET
+BT /F2 12 Tf 555 305 Td (IReservationAPI) Tj ET
+BT /F1 12 Tf 555 287 Td (lookup/update reservation state) Tj ET
+1 1 1 rg 0.84 0.87 0.9 RG 1 w 63 70 1445 105 re B
+BT /F2 18 Tf 82 145 Td (Interface / dependency notes) Tj ET
+BT /F1 13 Tf 82 120 Td (Solid connectors represent service communication; open circle = provided interface; socket = required interface.) Tj ET
+BT /F1 13 Tf 82 97 Td (Security: all restricted reservation/calibration operations pass through authentication + role authorization.) Tj ET
+BT /F1 13 Tf 82 74 Td (Concurrency: reservation writes use transactional database locking to prevent double-booking and support the 200 ms target.) Tj ET
+
+endstream
 endobj
 5 0 obj
-<<
-/BaseFont /Symbol /Name /F4 /Subtype /Type1 /Type /Font
->>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
 6 0 obj
-<<
-/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
->>
-endobj
-7 0 obj
-<<
-/PageMode /UseNone /Pages 9 0 R /Type /Catalog
->>
-endobj
-8 0 obj
-<<
-/Author (anonymous) /CreationDate (D:20260929064909+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260929064909+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (unspecified) /Title (untitled) /Trapped /False
->>
-endobj
-9 0 obj
-<<
-/Count 1 /Kids [ 6 0 R ] /Type /Pages
->>
-endobj
-10 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1855
->>
-stream
-Gat%$gMR]q&:NH>kXQ:8:#@T0+V=tmMGXXchY].Q[d=NNEG!fjnF`d6SZ]!_(hM;i`]ftX>udduFj4Zpi1E2\Dq@>R2Aa]sBq^NRh[&VF'D"leqg<S&NR7ZT-URJkTT,*aR3Z5qdd%mlHn?tRb3J-@X3uE#[RIj^hV=>>r`F&^?cBE-;-Z$:932ngFk>J%pSH\1FQJpXs"3BJi20\RIa9R_FAq5-e-X!KcH$Ql3GeQf_^4ZW^>EhNAhW!nS(k)K1YU*t#8shh>'L,uWpIZMVR)E4qb5WL0J?AI%+@4.B=n6jaR!/@LkQ2S'Lb)N/1<#Ybl5D3(p)6<$Y0bt9;(R\L):J9.9=Af1N0,a.9jZ^&B`Y@fGQH_!*g8V=B>p3)'M(R4fqdI]:3*V;\A-M=QHGHOJ0*`#N6ntMO`HfT_\;T]b=Ia=3=![IQpgpoQ3s!-]XTM1.;]sq4UbNiQIR)ebdmtOj_5rWF6B?g.!H4["^)JA!C"_L=qr*!l:ffKTOW<0r5aGBS#NK(WO7T``SYW`]BMt?qMARi!5O(SKXpg@SCLQC.?:)=\n@+U='7/Fs2j!rj,gn:4-_5c#)^jOkD!-9nj-tU<HAFktMRkB(%lNU&pZ!cF&VNH%*-.1_;?&reQZ[LbY;8<\7D+ad+dg-8WZaA9L")Rk;OJ[PIYhM4Ge<1La$i_J2Q]N`f0DFe[+*_r%!5A">hBhq*:[*BO-Z9"X"me4Q?MBWJO7>&uo0LtT=*kXc/KRWWT1)%rc=b&TGqI(398GI,Pu;L;,U[Q-ULPp844_VC(eF#.:h8RuJT&-Hu0`k(0^O:e`.8Pa)DZBpa`ejISG*TZul2@neaZZ!Q7]<g!U+'YY=p<fMt@o=*p7-^Mm.YLj@=tg*0-&g>bfMI&AY8U7@Ub2gClCuN76Rs?B6Vq(*86prZ)%lb-oV>Nc=u[oI41n")5F&Z.n+YgO\(p>rldP(S'D83f,sZD6-]0e!,4r)>58Xb3n*f8iA*E'T#^F3sE+*@GJUSE1Nf47+\m<&\0kd=B_')7EH5L>1MY%r0Jte#SQV'*VXp%*L2#:XZlbdCM12isFJCa2r+[1Vi]+S&%N:s%9+V%qFPL/VYX8WbY>)=aDrcj6nHt)"m9$*V"9*Mn\J`3*Spocor+3AC6e5#>JALFRVCQj>KA_F:Y',TnN,6Y*Uk>0WR%[dm%_D,jT*&1k8_#:3N'GWf#fi4h?IRiA].OO,F<mY4Kl#mDo9k([Y5\pQ4>7sX>M`)NTr^?:S3t.ibEVh7=-0rS1en]^YDf*C.`^Zo!(DLsi(i1="2H<lsCp`M(*ZM"cZr(!qrfiQUqCuVL"D8O*612!B'Zd)DT=b)!i-lF*f@?hh.1Ej%4\kDn/[E3ej8885U.5XPZ8mPA[-%^$-4C!!28"2X'4)?^+1jKBl;"WgMeR!gjfMTTE$2JNc<U$k(OnT4me]fXlQX"'LG8;&=41bA,34tLb)r;G_Ym,'<G*Kh,'?-<?Y<sD4u!!t/KnCXdilU,Mbd2.Q"cE=,QII=-*qLhCUK7XM:_u69*!c"0HW(%gAZ/NS--=Q3Z,,Rjs*2]WbZCR`fcCke,`m-+3Rj:E;_<"ZhEV:j0^MrpYTnXVoJ>#%h&0sJ:X[#r-4b+0?\4c/7+,7e+7d,6u]CKi%a[(bST#Pb=,QiAW9)_?[QQgX6XC"^<Ru#<;q/FG)s^fg\,F9?U#KB36e;VdsWie[TsJ(X6mYT`1)P<I_1>4mE2H9qjhC2T3+86/Us!'Sf>^iD1)+MKVOmko9\>Fc1^LXh/SsKs&T?j,odLk"+IRZM#2)C/iU7K!R3kd:mn1tbAIQ-hVWJ1LYFoc^PL;7!8g>krW>t^<VZ~>endstream
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
 xref
-0 11
+0 7
 0000000000 65535 f 
-0000000061 00000 n 
-0000000122 00000 n 
-0000000229 00000 n 
-0000000341 00000 n 
-0000000424 00000 n 
-0000000501 00000 n 
-0000000705 00000 n 
-0000000773 00000 n 
-000001034 00000 n 
-000001093 00000 n 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000253 00000 n 
+0000005317 00000 n 
+0000005387 00000 n 
 trailer
-<<
-/ID [<3203472c4e71c6c9cec92a95dd145495><3203472c4e71c6c9cec92a95dd145495>]
-/Info 8 0 R
-/Root 7 0 R
-/Size 11
->>
+<< /Size 7 /Root 1 0 R >>
 startxref
-3040
+5462
 %%EOF
