@@ -9,112 +9,69 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 1600 1000] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
 endobj
 4 0 obj
-<< /Length 5012 >>
+<< /Length 4495 >>
 stream
-BT /F2 30 Tf 60 945 Td (Lab 3 - Smart Lab Equipment & Slot Reservation Portal) Tj ET
-BT /F1 17 Tf 60 915 Td (Selected architecture: Layered Architecture | Components, provided/required interfaces and dependencies) Tj ET
-0.925 0.953 0.996 rg 0.53 0.69 0.9 RG 2 w 48 210 310 690 re B
-0.933 0.969 0.945 rg 0.6 0.79 0.64 RG 2 w 388 210 812 690 re B
-1 0.969 0.91 rg 0.91 0.73 0.41 RG 2 w 1230 210 292 690 re B
-BT /F2 20 Tf 74 860 Td (PRESENTATION LAYER) Tj ET
-BT /F2 20 Tf 414 860 Td (BUSINESS LAYER) Tj ET
-BT /F2 20 Tf 1256 860 Td (DATA LAYER) Tj ET
-0.925 0.957 0.996 rg 0.3 0.55 0.84 RG 2 w 90 500 225 154 re B
-0.925 0.957 0.996 rg 0.3 0.55 0.84 RG 1 w 90 616 225 38 re B
-BT /F2 16 Tf 104 628 Td (<<component>>) Tj ET
-BT /F2 16 Tf 104 594 Td (Student / Technician UI) Tj ET
-BT /F1 14 Tf 104 568 Td (View availability) Tj ET
-BT /F1 14 Tf 104 547 Td (Reserve / cancel slot) Tj ET
-BT /F1 14 Tf 104 526 Td (Manage calibration / returns) Tj ET
-0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 2 w 440 637 273 146 re B
-0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 1 w 440 745 273 38 re B
-BT /F2 16 Tf 454 757 Td (<<component>>) Tj ET
-BT /F2 16 Tf 454 723 Td (Authentication & Authorization) Tj ET
-BT /F1 14 Tf 454 697 Td (Student / technician login) Tj ET
-BT /F1 14 Tf 454 676 Td (Role checks before restricted actions) Tj ET
-0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 2 w 763 617 314 166 re B
-0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 1 w 763 745 314 38 re B
-BT /F2 16 Tf 777 757 Td (<<component>>) Tj ET
-BT /F2 16 Tf 777 723 Td (Reservation Manager) Tj ET
-BT /F1 14 Tf 777 697 Td (Availability + 2-hour / 7-day rules) Tj ET
-BT /F1 14 Tf 777 676 Td (Double-booking prevention / slot lock) Tj ET
-BT /F1 14 Tf 777 655 Td (Create, cancel, confirm reservations) Tj ET
-0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 2 w 440 375 273 159 re B
-0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 1 w 440 496 273 38 re B
-BT /F2 16 Tf 454 508 Td (<<component>>) Tj ET
-BT /F2 16 Tf 454 474 Td (Equipment & Calibration Manager) Tj ET
-BT /F1 14 Tf 454 448 Td (Equipment registration / availability) Tj ET
-BT /F1 14 Tf 454 427 Td (Calibration status updates) Tj ET
-BT /F1 14 Tf 454 406 Td (Only calibrated equipment reservable) Tj ET
-0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 2 w 763 375 314 159 re B
-0.89 0.956 0.91 rg 0.37 0.65 0.4 RG 1 w 763 496 314 38 re B
-BT /F2 16 Tf 777 508 Td (<<component>>) Tj ET
-BT /F2 16 Tf 777 474 Td (Return & Late-Return Manager) Tj ET
-BT /F1 14 Tf 777 448 Td (Record equipment returns) Tj ET
-BT /F1 14 Tf 777 427 Td (Mark overdue reservations) Tj ET
-BT /F1 14 Tf 777 406 Td (Apply late-return workflow) Tj ET
-1 0.93 0.76 rg 0.76 0.52 0.1 RG 2 w 1255 463 242 171 re B
-1 0.93 0.76 rg 0.76 0.52 0.1 RG 1 w 1255 596 242 38 re B
-BT /F2 16 Tf 1269 608 Td (<<component>>) Tj ET
-BT /F2 16 Tf 1269 574 Td (Lab Reservation Database) Tj ET
-BT /F1 14 Tf 1269 548 Td (Students / roles) Tj ET
-BT /F1 14 Tf 1269 527 Td (Equipment + calibration) Tj ET
-BT /F1 14 Tf 1269 506 Td (Reservations / returns) Tj ET
-BT /F1 14 Tf 1269 485 Td (Transactional locking) Tj ET
-0.36 0.41 0.47 RG 2 w 315 730 m 440 710 l S
-1 1 1 rg 0.31 0.37 0.43 RG 2 w 432 702 16 16 re S
-0.36 0.41 0.47 RG 2 w 315 690 m 763 700 l S
-1 1 1 rg 0.31 0.37 0.43 RG 2 w 755 692 16 16 re S
-0.36 0.41 0.47 RG 2 w 315 650 m 440 455 l S
-1 1 1 rg 0.31 0.37 0.43 RG 2 w 432 447 16 16 re S
-0.36 0.41 0.47 RG 2 w 315 610 m 763 455 l S
-1 1 1 rg 0.31 0.37 0.43 RG 2 w 755 447 16 16 re S
-0.36 0.41 0.47 RG 2 w 713 710 m 763 700 l S
-0.36 0.41 0.47 RG 2 w 1077 700 m 1255 555 l S
-1 1 1 rg 0.31 0.37 0.43 RG 2 w 1247 547 16 16 re S
-0.36 0.41 0.47 RG 2 w 1077 455 m 1255 520 l S
-1 1 1 rg 0.31 0.37 0.43 RG 2 w 1247 512 16 16 re S
-BT /F2 12 Tf 365 770 Td (IAuthAPI) Tj ET
-BT /F1 12 Tf 365 750 Td (authentication / authorization) Tj ET
-BT /F2 12 Tf 465 575 Td (IReservationAPI) Tj ET
-BT /F1 12 Tf 465 557 Td (availability / reserve / cancel) Tj ET
-BT /F2 12 Tf 695 585 Td (IEquipmentAPI) Tj ET
-BT /F1 12 Tf 695 567 Td (validate calibration + slot availability) Tj ET
-BT /F2 12 Tf 365 445 Td (IEquipmentAPI) Tj ET
-BT /F1 12 Tf 365 427 Td (availability / calibration) Tj ET
-BT /F2 12 Tf 555 350 Td (IReturnAPI) Tj ET
-BT /F1 12 Tf 555 332 Td (return / overdue handling) Tj ET
-BT /F2 12 Tf 1114 590 Td (IRepository) Tj ET
-BT /F1 12 Tf 1114 572 Td (transactional database access) Tj ET
-BT /F2 12 Tf 1114 500 Td (IRepository) Tj ET
-BT /F1 12 Tf 1114 482 Td (returns + audit data) Tj ET
-BT /F2 12 Tf 555 305 Td (IReservationAPI) Tj ET
-BT /F1 12 Tf 555 287 Td (lookup/update reservation state) Tj ET
-1 1 1 rg 0.84 0.87 0.9 RG 1 w 63 70 1445 105 re B
-BT /F2 18 Tf 82 145 Td (Interface / dependency notes) Tj ET
-BT /F1 13 Tf 82 120 Td (Solid connectors represent service communication; open circle = provided interface; socket = required interface.) Tj ET
-BT /F1 13 Tf 82 97 Td (Security: all restricted reservation/calibration operations pass through authentication + role authorization.) Tj ET
-BT /F1 13 Tf 82 74 Td (Concurrency: reservation writes use transactional database locking to prevent double-booking and support the 200 ms target.) Tj ET
-
-endstream
-endobj
-5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
-endobj
-6 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
-endobj
-xref
-0 7
-0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000115 00000 n 
-0000000253 00000 n 
-0000005317 00000 n 
-0000005387 00000 n 
-trailer
-<< /Size 7 /Root 1 0 R >>
-startxref
-5462
-%%EOF
+0 0 0 rg BT /F2 30 Tf 60 945 Td (Lab 3 - Smart Lab Equipment & Slot Reservation Portal) Tj ET
+0 0 0 rg BT /F1 17 Tf 60 915 Td (Selected architecture: Layered Architecture | UML Component Diagram) Tj ET
+0.925 0.953 0.996 rg 0.53 0.69 0.9 RG 2 w 48 180 310 690 re B
+0.933 0.969 0.945 rg 0.6 0.79 0.64 RG 2 w 388 180 812 690 re B
+1 0.969 0.91 rg 0.91 0.73 0.41 RG 2 w 1230 180 292 690 re B
+0 0 0 rg BT /F2 20 Tf 74 835 Td (PRESENTATION LAYER) Tj ET
+0 0 0 rg BT /F2 20 Tf 414 835 Td (BUSINESS LAYER) Tj ET
+0 0 0 rg BT /F2 20 Tf 1256 835 Td (DATA LAYER) Tj ET
+1 1 1 rg 0.35 0.48 0.6 RG 2 w 90 500 225 154 re B
+0 0 0 rg BT /F2 11 Tf 102 630 Td (<<component>>) Tj ET
+0 0 0 rg BT /F2 15 Tf 102 608 Td (Student / Technician UI) Tj ET
+0 0 0 rg BT /F1 11 Tf 102 586 Td (View availability) Tj ET
+0 0 0 rg BT /F1 11 Tf 102 568 Td (Reserve / cancel slot) Tj ET
+0 0 0 rg BT /F1 11 Tf 102 550 Td (Manage calibration / returns) Tj ET
+1 1 1 rg 0.35 0.48 0.6 RG 2 w 440 637 273 146 re B
+0 0 0 rg BT /F2 11 Tf 452 759 Td (<<component>>) Tj ET
+0 0 0 rg BT /F2 15 Tf 452 737 Td (Authentication & Authorization) Tj ET
+0 0 0 rg BT /F1 11 Tf 452 715 Td (Student / technician login) Tj ET
+0 0 0 rg BT /F1 11 Tf 452 697 Td (Role checks before restricted actions) Tj ET
+1 1 1 rg 0.35 0.48 0.6 RG 2 w 763 617 314 166 re B
+0 0 0 rg BT /F2 11 Tf 775 759 Td (<<component>>) Tj ET
+0 0 0 rg BT /F2 15 Tf 775 737 Td (Reservation Manager) Tj ET
+0 0 0 rg BT /F1 11 Tf 775 715 Td (Availability + 2-hour / 7-day rules) Tj ET
+0 0 0 rg BT /F1 11 Tf 775 697 Td (Double-booking prevention / slot lock) Tj ET
+0 0 0 rg BT /F1 11 Tf 775 679 Td (Create, cancel, confirm reservations) Tj ET
+1 1 1 rg 0.35 0.48 0.6 RG 2 w 440 375 273 159 re B
+0 0 0 rg BT /F2 11 Tf 452 510 Td (<<component>>) Tj ET
+0 0 0 rg BT /F2 15 Tf 452 488 Td (Equipment & Calibration Manager) Tj ET
+0 0 0 rg BT /F1 11 Tf 452 466 Td (Equipment registration / availability) Tj ET
+0 0 0 rg BT /F1 11 Tf 452 448 Td (Calibration status updates) Tj ET
+0 0 0 rg BT /F1 11 Tf 452 430 Td (Only calibrated equipment reservable) Tj ET
+1 1 1 rg 0.35 0.48 0.6 RG 2 w 763 375 314 159 re B
+0 0 0 rg BT /F2 11 Tf 775 510 Td (<<component>>) Tj ET
+0 0 0 rg BT /F2 15 Tf 775 488 Td (Return & Late-Return Manager) Tj ET
+0 0 0 rg BT /F1 11 Tf 775 466 Td (Record equipment returns) Tj ET
+0 0 0 rg BT /F1 11 Tf 775 448 Td (Mark overdue reservations) Tj ET
+0 0 0 rg BT /F1 11 Tf 775 430 Td (Apply late-return workflow) Tj ET
+1 1 1 rg 0.35 0.48 0.6 RG 2 w 1255 463 242 171 re B
+0 0 0 rg BT /F2 11 Tf 1267 610 Td (<<component>>) Tj ET
+0 0 0 rg BT /F2 15 Tf 1267 588 Td (Lab Reservation Database) Tj ET
+0 0 0 rg BT /F1 11 Tf 1267 566 Td (Students / roles) Tj ET
+0 0 0 rg BT /F1 11 Tf 1267 548 Td (Equipment + calibration) TfàUåô»ï—åHLHàLçç»LÃ
+ô\Ÿ\ùò][€ú»»ô]\õú HàUåô»ï—åHLHàLçç»LLà
+ò[úÿX›[€ò[ÿ⁄⁄[ô HàUååÃåÕàç»ë»à»ÃMHÃÃHÃL¬ååÃåÕàç»ë»à»ÃMHéLHÕå»Ã¬ååÃåÕàç»ë»à»ÃMHçLHMH¬ååÃåÕàç»ë»à»ÃMHåLHÕå»MH¬ååÃåÕàç»ë»à»ÃL»ÃLHÕå»Ã¬ååÃåÕàç»ë»à»LÕ»ÃHLçMHMMH¬ååÃåÕàç»ë»à»LÕ»MHHLçMHLå¬åô»ï—åàLHàÕçHÕÃ
+P]]TJHàUåô»ï—åHHàÕçHÕMH
+]][ùXÿ][€à»]]‹ö^ò][€äHàUåô»ï—åàLHàçHMÕH
+Tô\Ÿ\ùò][€êTJHàUåô»ï—åHHàçHMå
+]òZ[Xö[]H»ô\Ÿ\ùôH»ÿ[òŸ[
+HàUåô»ï—åàLHàÕçHH
+Q\]Z\Y[ùTJHàUåô»ï—åHHàÕçHÃ
+]òZ[Xö[]H»ÿ[Xúò][€äHàUåô»ï—åàLHàMMHÕL
+Tô]\õêTJHàUåô»ï—åHHàMMHÃÕH
+ô]\õà»›ô\ôYH[ô[ô HàUåô»ï—åàLHàLLLNL
+Tô\‹⁄]‹ûJHàUåô»ï—åHHàLLLMÕH
+ò[úÿX›[€ò[]Xò\ŸHXÿŸ\‹ HàUåô»ï—åàLHàLLLL
+Tô\‹⁄]‹ûJHàUåô»ï—åHHàLLLÕH
+ô]\õú»
+»]Y]]JHàUåHHHô»éé»éHë»à»å»MHLHôHÇåô»ï—åàMàààLå
+[ù\ôòXŸH»\[ô[òﬁHõ›\ HàUåô»ï—åHLààN
+€€Y€€õôX›‹ú»HŸ\ùöXŸH€€[][öXÿ][€éà[ù\ôòXŸHXô[»Y[ùYûHõ›öYY‹ô\]Z\ôYŸ\ùöXŸ\ÀäHàUåô»ï—åHLààŒ
+ŸX›\ö]HH]][ùXÿÿ][€à
+»õ€H]]‹ö^ò][€àôYõ‹ôHô\›öX›Y‹\ò][€úÀäHàUåô»ï—åHLààN
+€€ò›\úô[òﬁHHò[úÿX›[€ò[]Xò\ŸHÿ⁄⁄[ô»»ô]ô[ù›XõKXõ€⁄⁄[ôÀäHàUåô»ï—åHLààà
+ô\Ÿ\ùò][€àù[\»HX^[][Hà›\úÀ⁄][à»^\Àÿ[Xúò]Y\]Z\Y[ù€õKäHàUô[ô›ôX[Bô[ôÿöÇçHÿöÇè’\H—õ€ù‘›Xù\H’\LH–ò\ŸQõ€ù“[ô]XÿHèÇô[ôÿöÇçàÿöÇè’\H—õ€ù‘›Xù\H’\LH–ò\ŸQõ€ù“[ô]XÿKPõ€èÇô[ôÿöÇûôYÇå¬åçMLÕHàåHàåNàåLMHàåçL»àåŒNHàåéHàùòZ[\Çè‘⁄^ôH»‘õ€›HàèÇú›\ùôYÇçMâIQS—Ç
