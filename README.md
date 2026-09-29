@@ -1,6 +1,6 @@
 # Lab 3 - Architecture Selection & Component Model
 
-**Name:** Jayakrishna J S  
+**Name:** Jayakrishna J 
 **SRN:** PES1UG24CS192  
 **Scenario:** Smart Lab Equipment & Slot Reservation Portal
 
