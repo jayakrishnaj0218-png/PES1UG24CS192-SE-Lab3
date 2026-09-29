@@ -1,4 +1,5 @@
 %PDF-1.4
+%âãÏÓ
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
@@ -6,72 +7,47 @@ endobj
 << /Type /Pages /Kids [3 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1600 1000] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
 endobj
 4 0 obj
-<< /Length 4495 >>
+<< /Length 1216 >>
 stream
-0 0 0 rg BT /F2 30 Tf 60 945 Td (Lab 3 - Smart Lab Equipment & Slot Reservation Portal) Tj ET
-0 0 0 rg BT /F1 17 Tf 60 915 Td (Selected architecture: Layered Architecture | UML Component Diagram) Tj ET
-0.925 0.953 0.996 rg 0.53 0.69 0.9 RG 2 w 48 180 310 690 re B
-0.933 0.969 0.945 rg 0.6 0.79 0.64 RG 2 w 388 180 812 690 re B
-1 0.969 0.91 rg 0.91 0.73 0.41 RG 2 w 1230 180 292 690 re B
-0 0 0 rg BT /F2 20 Tf 74 835 Td (PRESENTATION LAYER) Tj ET
-0 0 0 rg BT /F2 20 Tf 414 835 Td (BUSINESS LAYER) Tj ET
-0 0 0 rg BT /F2 20 Tf 1256 835 Td (DATA LAYER) Tj ET
-1 1 1 rg 0.35 0.48 0.6 RG 2 w 90 500 225 154 re B
-0 0 0 rg BT /F2 11 Tf 102 630 Td (<<component>>) Tj ET
-0 0 0 rg BT /F2 15 Tf 102 608 Td (Student / Technician UI) Tj ET
-0 0 0 rg BT /F1 11 Tf 102 586 Td (View availability) Tj ET
-0 0 0 rg BT /F1 11 Tf 102 568 Td (Reserve / cancel slot) Tj ET
-0 0 0 rg BT /F1 11 Tf 102 550 Td (Manage calibration / returns) Tj ET
-1 1 1 rg 0.35 0.48 0.6 RG 2 w 440 637 273 146 re B
-0 0 0 rg BT /F2 11 Tf 452 759 Td (<<component>>) Tj ET
-0 0 0 rg BT /F2 15 Tf 452 737 Td (Authentication & Authorization) Tj ET
-0 0 0 rg BT /F1 11 Tf 452 715 Td (Student / technician login) Tj ET
-0 0 0 rg BT /F1 11 Tf 452 697 Td (Role checks before restricted actions) Tj ET
-1 1 1 rg 0.35 0.48 0.6 RG 2 w 763 617 314 166 re B
-0 0 0 rg BT /F2 11 Tf 775 759 Td (<<component>>) Tj ET
-0 0 0 rg BT /F2 15 Tf 775 737 Td (Reservation Manager) Tj ET
-0 0 0 rg BT /F1 11 Tf 775 715 Td (Availability + 2-hour / 7-day rules) Tj ET
-0 0 0 rg BT /F1 11 Tf 775 697 Td (Double-booking prevention / slot lock) Tj ET
-0 0 0 rg BT /F1 11 Tf 775 679 Td (Create, cancel, confirm reservations) Tj ET
-1 1 1 rg 0.35 0.48 0.6 RG 2 w 440 375 273 159 re B
-0 0 0 rg BT /F2 11 Tf 452 510 Td (<<component>>) Tj ET
-0 0 0 rg BT /F2 15 Tf 452 488 Td (Equipment & Calibration Manager) Tj ET
-0 0 0 rg BT /F1 11 Tf 452 466 Td (Equipment registration / availability) Tj ET
-0 0 0 rg BT /F1 11 Tf 452 448 Td (Calibration status updates) Tj ET
-0 0 0 rg BT /F1 11 Tf 452 430 Td (Only calibrated equipment reservable) Tj ET
-1 1 1 rg 0.35 0.48 0.6 RG 2 w 763 375 314 159 re B
-0 0 0 rg BT /F2 11 Tf 775 510 Td (<<component>>) Tj ET
-0 0 0 rg BT /F2 15 Tf 775 488 Td (Return & Late-Return Manager) Tj ET
-0 0 0 rg BT /F1 11 Tf 775 466 Td (Record equipment returns) Tj ET
-0 0 0 rg BT /F1 11 Tf 775 448 Td (Mark overdue reservations) Tj ET
-0 0 0 rg BT /F1 11 Tf 775 430 Td (Apply late-return workflow) Tj ET
-1 1 1 rg 0.35 0.48 0.6 RG 2 w 1255 463 242 171 re B
-0 0 0 rg BT /F2 11 Tf 1267 610 Td (<<component>>) Tj ET
-0 0 0 rg BT /F2 15 Tf 1267 588 Td (Lab Reservation Database) Tj ET
-0 0 0 rg BT /F1 11 Tf 1267 566 Td (Students / roles) Tj ET
-0 0 0 rg BT /F1 11 Tf 1267 548 Td (Equipment + calibration) TfˆUŒ™È•ÑŒHLHˆLÈLÌ
-™\Ù\˜][ÛœÈÈ™]\›œÊHˆUŒ™È•ÑŒHLHˆLÈLLˆ
-˜[œØXİ[Û˜[ØÚÚ[™ÊHˆUŒŒÌŒÍˆÈ‘ÈˆÈÌMHÌÌHÌLÂŒŒÌŒÍˆÈ‘ÈˆÈÌMHLHÍŒÈÌÂŒŒÌŒÍˆÈ‘ÈˆÈÌMHLHMHÂŒŒÌŒÍˆÈ‘ÈˆÈÌMHŒLHÍŒÈMHÂŒŒÌŒÍˆÈ‘ÈˆÈÌLÈÌLHÍŒÈÌÂŒŒÌŒÍˆÈ‘ÈˆÈLÍÈÌHLMHMMHÂŒŒÌŒÍˆÈ‘ÈˆÈLÍÈMHHLMHLŒÂŒ™È•ÑŒˆLHˆÍHÍÌ
-P]]TJHˆUŒ™È•ÑŒHHˆÍHÍMH
-]][XØ][ÛˆÈ]]Üš^˜][ÛŠHˆUŒ™È•ÑŒˆLHˆHMÍH
-T™\Ù\˜][ÛTJHˆUŒ™È•ÑŒHHˆHMŒ
-]˜Z[Xš[]HÈ™\Ù\™HÈØ[˜Ù[
-HˆUŒ™È•ÑŒˆLHˆÍHH
-Q\]Z\Y[TJHˆUŒ™È•ÑŒHHˆÍHÌ
-]˜Z[Xš[]HÈØ[Xœ˜][ÛŠHˆUŒ™È•ÑŒˆLHˆMMHÍL
-T™]\›TJHˆUŒ™È•ÑŒHHˆMMHÌÍH
-™]\›ˆÈİ™\™YH[™[™ÊHˆUŒ™È•ÑŒˆLHˆLLLNL
-T™\ÜÚ]ÜJHˆUŒ™È•ÑŒHHˆLLLMÍH
-˜[œØXİ[Û˜[]X˜\ÙHXØÙ\ÜÊHˆUŒ™È•ÑŒˆLHˆLLLL
-T™\ÜÚ]ÜJHˆUŒ™È•ÑŒHHˆLLLÍH
-™]\›œÈ
-È]Y]]JHˆUŒHHH™ÈÈH‘ÈˆÈŒÈMHLH™H‚Œ™È•ÑŒˆMˆˆˆLŒ
-[\™˜XÙHÈ\[™[˜ŞH›İ\ÊHˆUŒ™È•ÑŒHLˆˆN
-ÛÛYÛÛ›™XİÜœÈHÙ\šXÙHÛÛ[][šXØ][Ûˆ[\™˜XÙHX™[ÈY[YH›İšYYÜ™\]Z\™YÙ\šXÙ\ËŠHˆUŒ™È•ÑŒHLˆˆÎ
-ÙXİ\š]HH]][XØØ][Ûˆ
-È›ÛH]]Üš^˜][Ûˆ™Y›Ü™H™\İšXİYÜ\˜][ÛœËŠHˆUŒ™È•ÑŒHLˆˆN
-ÛÛ˜İ\œ™[˜ŞHH˜[œØXİ[Û˜[]X˜\ÙHØÚÚ[™ÈÈ™]™[İX›KX›ÛÚÚ[™ËŠHˆUŒ™È•ÑŒHLˆˆˆ
-™\Ù\˜][Ûˆ[\ÈHX^[][Hˆİ\œËÚ][ˆÈ^\ËØ[Xœ˜]Y\]Z\Y[Û›KŠHˆU™[™İ™X[B™[™Øš‚HØš‚Õ\HÑ›ÛÔİX\HÕ\LHĞ˜\ÙQ›ÛÒ[™]XØH‚™[™Øš‚ˆØš‚Õ\HÑ›ÛÔİX\HÕ\LHĞ˜\ÙQ›ÛÒ[™]XØKP›Û‚™[™Øš‚™Y‚ŒÂŒMLÍHˆŒHˆŒNˆŒLMHˆŒLÈˆŒÎNHˆŒHˆ˜Z[\‚ÔÚ^™HÈÔ›ÛİHˆ‚œİ\™Y‚M‰IQSÑ‚
+q
+0.86 0.93 0.98 rg 35 95 240 410 re f
+0.88 0.95 0.85 rg 301 95 240 410 re f
+1 0.95 0.75 rg 567 95 240 410 re f
+0 0 0 rg
+BT /F2 18 Tf 190 550 Td (Software Engineering Lab 3 - Component Diagram) Tj ET
+BT /F1 10 Tf 220 532 Td (Smart Lab Equipment & Slot Reservation Portal) Tj ET
+BT /F2 12 Tf 88 480 Td (Presentation Layer) Tj ET
+BT /F2 12 Tf 355 480 Td (Business Layer) Tj ET
+BT /F2 12 Tf 630 480 Td (Data Layer) Tj ET
+BT /F2 10 Tf 80 420 Td (Student / Technician UI) Tj 0 -25 Td (IAuthAPI) Tj ET
+BT /F2 10 Tf 345 420 Td (Authentication & Authorization) Tj 0 -45 Td (Reservation Manager) Tj 0 -45 Td (Equipment & Calibration Manager) Tj 0 -45 Td (Return & Late-Return Manager) Tj ET
+BT /F2 10 Tf 610 400 Td (Lab Reservation Database) Tj ET
+BT /F1 8 Tf 65 150 Td (Rules: 2-hour maximum; booking within 7 days; calibrated equipment only.) Tj 0 -15 Td (Double-booking prevention uses transactional database locking.) Tj 0 -15 Td (Authentication and role authorization are required before restricted operations.) Tj ET
+0 0 0 RG 1 w 275 440 m 300 440 l S 540 420 m 567 420 l S 540 375 m 567 375 l S 540 330 m 567 330 l S
+BT /F1 8 Tf 275 455 Td (IReservationAPI) Tj 0 -45 Td (IEquipmentAPI) Tj 0 -45 Td (IReturnAPI) Tj ET
+Q
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000001525 00000 n 
+0000001595 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1670
+%%EOF
